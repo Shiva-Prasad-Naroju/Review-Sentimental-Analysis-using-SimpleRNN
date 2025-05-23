@@ -34,7 +34,7 @@ The web app allows users to:
 - Instantly view whether the review is Positive 😊 or Negative 😞
 
 ## 📸 Screenshots:
-(assets\Positive_review_output.png)
+assets/Positive_review_output.png
 
 ## 🧪 Tech Stack:
 
