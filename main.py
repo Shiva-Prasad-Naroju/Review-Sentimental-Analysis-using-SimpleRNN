@@ -1,9 +1,10 @@
+import re
 import streamlit as st
 import numpy as np
-from keras.models import load_model
-from keras.preprocessing.sequence import pad_sequences
-from keras.datasets import imdb
-import re
+from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.datasets import imdb
+
 
 # Constants
 max_length = 200
