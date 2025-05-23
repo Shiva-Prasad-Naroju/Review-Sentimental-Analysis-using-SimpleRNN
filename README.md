@@ -51,8 +51,9 @@ Streamlit
 
 - 🐍 1. Clone the Repo
 
-- git clone https://github.com/your-username/Simple-RNN-Sentiment-Analysis.git
-- cd Simple-RNN-Sentiment-Analysis
+- git clone https://github.com/Shiva-Prasad-Naroju/Review-Sentimental-Analysis-using-SimpleRNN.git
+
+- cd Review-Sentimental-Analysis-using-SimpleRNN
 
 - 📦 2. Create & Activate Virtual Environment (Optional but recommended)
 
